@@ -25,8 +25,8 @@ function changeContent(page) {
 				Code First Girls has become one of the largest providers of free coding courses for women globally, having delivered over £75 million worth of free technology education and teaching three times as many women to code as the entire UK university undergraduate system!
 				</p>
 				<p>
-					We're passionate about creating engaging and
-					informative SPAs.
+					We're amazingly passionate about creating engaging and
+					informative SPAs!!!!!!
 				</p>
 			`;
 			break;
