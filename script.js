@@ -34,7 +34,7 @@ function changeContent(page) {
 			contentDiv.innerHTML = 
 				`<h2>Contact Us</h2> 
 				<p>
-					Feel free to reach out to us!
+					Feel free to reach out to us! Anytime
 				</p> 
 				<form> 
 				<label for="name">Name:</label> 
